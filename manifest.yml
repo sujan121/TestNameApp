@@ -6,3 +6,5 @@ applications:
   name: TestNameApp
   host: testnameapp
   disk_quota: 1024M
+  services:
+  - Monitoring and Analytics-y4
