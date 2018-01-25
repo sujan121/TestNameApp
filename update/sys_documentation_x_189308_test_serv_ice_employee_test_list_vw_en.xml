@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="test_list_vw" label="Test_List_Vw" language="en" table="x_189308_test_serv_ice_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_list_vw</element>
+            <help/>
+            <hint/>
+            <label>Test_List_Vw</label>
+            <language>en</language>
+            <name>x_189308_test_serv_ice_employee</name>
+            <plural>Test_List_Vws</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 11:03:39</sys_created_on>
+            <sys_id>ca4782f6db7303003f10712ebf961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test_List_Vw</sys_name>
+            <sys_package display_value="Test_Service_New" source="x_189308_test_serv">1b138af2db7303003f10712ebf9619d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_Service_New">1b138af2db7303003f10712ebf9619d9</sys_scope>
+            <sys_update_name>sys_documentation_x_189308_test_serv_ice_employee_test_list_vw_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 11:03:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_189308_test_serv.ice_employee_user" name="x_189308_test_serv.ice_employee_user">f994c676db7303003f10712ebf96194f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-25 10:51:53</sys_created_on>
+        <sys_id>3994c676db7303003f10712ebf961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f994c676db7303003f10712ebf96194f</sys_name>
+        <sys_package display_value="Test_Service_New" source="x_189308_test_serv">1b138af2db7303003f10712ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Service_New">1b138af2db7303003f10712ebf9619d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3994c676db7303003f10712ebf961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-25 10:51:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ICE_Employee" max_length="40" name="x_189308_test_serv_ice_employee" type="collection">
+        <element default="Full Name" display="true" label="Full_Name" mandatory="true" max_length="50" name="full_name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Test_List_Vw" max_length="40" name="test_list_vw" type="string"/>
+    </element>
+</database>
